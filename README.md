@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practising the GitHub Flow.
+My name is Shaheer Harris, i'm majoring in comp science this is my second year at pima and i'm looking forward to this class. 
